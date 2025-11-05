@@ -67,7 +67,7 @@ Linux/Server Management | UX/UI Design (Adobe, Figma, Canva)
 ---
 
 ## 📬 Let’s Connect
-📧 **Email:** salmannafeez2003@gmail.com 
+📧 **Email:** salmann.techsolutions@gmail.com
 🔗 **LinkedIn:** https://www.linkedin.com/in/salman-nafeez/ 
 
 ---
