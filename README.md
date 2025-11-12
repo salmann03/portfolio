@@ -51,11 +51,10 @@ Linux/Server Management | UX/UI Design (Adobe, Figma, Canva)
 | [ecoru.org](https://ecoru.org) | NGO website focusing on clean design and accessibility. |
 | [thescalebridge.com](https://thescalebridge.com) | Business consultancy site optimized for performance and conversions. |
 | [cartivatemotors.lk](https://cartivatemotors.lk) | Automobile e-commerce site with custom inventory management. |
-| [radi.lk](https://radi.lk) | Lifestyle brand website focusing on modern UI/UX and brand identity. |
 | [syokids.com](https://syokids.com) | Kids fashion e-commerce with custom product filters and checkout flow. |
 
 🧩 *More projects in progress:*  
-`finapcurix.com`, `finapclori.com`, `onedesk.one`, `sriandcoapparel.com`, `nexussupplements.lk`, `teabagsociety.com`, `omniversetools.com`.
+`finapcurix.com`, `finapclori.com`, `onedesk.one`, `sriandcoapparel.com`, `nexussupplements.lk`, `teabagsociety.com`, `omniversetools.com`, `radi.lk`.
 
 ---
 
