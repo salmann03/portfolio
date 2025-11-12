@@ -51,6 +51,8 @@ Linux/Server Management | UX/UI Design (Adobe, Figma, Canva)
 | [ecoru.org](https://ecoru.org) | NGO website focusing on clean design and accessibility. |
 | [thescalebridge.com](https://thescalebridge.com) | Business consultancy site optimized for performance and conversions. |
 | [cartivatemotors.lk](https://cartivatemotors.lk) | Automobile e-commerce site with custom inventory management. |
+| [aaautomart.com](http://aaautomart.com/) | Automobile e-commerce site with custom inventory management. |
+| [sarathas.lk](https://sarathas.lk/) | Men's fashion e-commerce with custom product filters and checkout flow. |
 | [syokids.com](https://syokids.com) | Kids fashion e-commerce with custom product filters and checkout flow. |
 
 🧩 *More projects in progress:*  
