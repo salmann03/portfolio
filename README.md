@@ -44,16 +44,17 @@ Linux/Server Management | UX/UI Design (Adobe, Figma, Canva)
 
 | Project | Description |
 |----------|-------------|
-| [webluxeglobal.com](https://webluxeglobal.com) | Web solutions platform with integrated client dashboard (play.webluxeglobal.com). |
-| [grandapartments.lk](https://grandapartments.lk) | Real estate website with dynamic listings and lead generation tools. |
 | [finapworldwide.com](https://finapworldwide.com) | Corporate site built for fintech brand, with CRM and HR modules (in pipeline). |
 | [smarttech-oman.com](https://smarttech-oman.com) | Tech solutions company website with tailored UX and fast load times. |
+| [webluxeglobal.com](https://webluxeglobal.com) | Web solutions platform with integrated client dashboard (play.webluxeglobal.com). |
 | [ecoru.org](https://ecoru.org) | NGO website focusing on clean design and accessibility. |
 | [thescalebridge.com](https://thescalebridge.com) | Business consultancy site optimized for performance and conversions. |
+| [t-bizz.com.au](https://t-bizz.com.au/) | Custom T-Shirt, Polo & Hoodies printing site based in Australia. |
 | [cartivatemotors.lk](https://cartivatemotors.lk) | Automobile e-commerce site with custom inventory management. |
 | [aaautomart.com](http://aaautomart.com/) | Automobile e-commerce site with custom inventory management. |
 | [sarathas.lk](https://sarathas.lk/) | Men's fashion e-commerce with custom product filters and checkout flow. |
 | [syokids.com](https://syokids.com) | Kids fashion e-commerce with custom product filters and checkout flow. |
+| [grandapartments.lk](https://grandapartments.lk) | Real estate website with dynamic listings and lead generation tools. |
 
 🧩 *More projects in progress:*  
 `finapcurix.com`, `finapclori.com`, `onedesk.one`, `sriandcoapparel.com`, `nexussupplements.lk`, `teabagsociety.com`, `omniversetools.com`, `radi.lk`.
