@@ -59,7 +59,7 @@ Linux/Server Management | UX/UI Design (Adobe, Figma, Canva)
 | [grandapartments.lk](https://grandapartments.lk) | Real estate website with dynamic listings and lead generation tools. |
 
 🧩 *More projects in progress:*  
-`finapcurix.com`, `finapclori.com`, `onedesk.one`, `sriandcoapparel.com`, `nexussupplements.lk`, `teabagsociety.com`, `omniversetools.com`, `radi.lk`.
+`finapcurix.com`, `finapclori.com`, `onedesk.one`, `nexussupplements.lk`, `teabagsociety.com`, `omniversetools.com`, `radi.lk`.
 
 ---
 
