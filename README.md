@@ -57,6 +57,7 @@ Linux/Server Management | UX/UI Design (Adobe, Figma, Canva)
 | [sriandcoapparel.com](https://sriandcoapparel.com/) | Minimal apparel e-commerce featuring island-inspired casual wear. |
 | [leadsinternationals.com](https://leadsinternationals.com/) | Global services platform for education, shipping, travel and software with tailored solution tools. |
 | [grandapartments.lk](https://grandapartments.lk) | Real estate website with dynamic listings and lead generation tools. |
+| [arigatouedu.com](https://arigatouedu.com/) | Learning course website for Japanese language, culture and courses. |
 
 🧩 *More projects in progress:*  
 `finapcurix.com`, `finapclori.com`, `onedesk.one`, `nexussupplements.lk`, `teabagsociety.com`, `omniversetools.com`, `radi.lk`.
