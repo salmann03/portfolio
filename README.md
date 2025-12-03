@@ -59,10 +59,11 @@ Linux/Server Management | UX/UI Design (Adobe, Figma, Canva)
 | [sriandcoapparel.com](https://sriandcoapparel.com/) | Minimal apparel e-commerce featuring island-inspired casual wear. |
 | [leadsinternationals.com](https://leadsinternationals.com/) | Global services platform for education, shipping, travel and software. |
 | [grandapartments.lk](https://grandapartments.lk) | Real estate website with dynamic listings and lead generation tools. |
+| [lankadestinations.co.uk](https://lankadestinations.co.uk/) | UK-based website offering inbound tours to Sri Lanka. |
 | [arigatouedu.com](https://arigatouedu.com/) | Learning course website for Japanese language, culture and courses. |
 
 🧩 *More projects in progress:*  
-`lankadestinations.co.uk`,`luckystar.lk`,`finapcurix.com`, `finapclori.com`, `onedesk.one`, `nexussupplements.lk`, `teabagsociety.com`, `omniversetools.com`, `radi.lk`.
+`surfingtusker.com`,`luckystar.lk`,`finapcurix.com`, `finapclori.com`, `onedesk.one`, `nexussupplements.lk`, `teabagsociety.com`, `omniversetools.com`, `radi.lk`.
 
 ---
 
