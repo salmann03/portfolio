@@ -57,8 +57,8 @@ Linux/Server Management | UX/UI Design (Adobe, Figma, Canva)
 | [sivascarsales.com](https://sivascarsales.com/) | Automobile e-commerce site with custom inventory management. |
 | [sarathas.lk](https://sarathas.lk/) | Men's fashion e-commerce with custom product filters and checkout flow. |
 | [syokids.com](https://syokids.com) | Kids fashion e-commerce with custom product filters and checkout flow. |
-| [sriandcoapparel.com](https://sriandcoapparel.com/) | Minimal apparel e-commerce featuring island-inspired casual wear. |
 | [leadsinternationals.com](https://leadsinternationals.com/) | Global services platform for education, shipping, travel and software. |
+| [sriandcoapparel.com](https://sriandcoapparel.com/) | Minimal apparel e-commerce featuring island-inspired casual wear. |
 | [arigatouedu.com](https://arigatouedu.com/) | Learning course website for Japanese language, culture and courses. |
 | [lankadestinations.co.uk](https://lankadestinations.co.uk/) | UK-based website offering inbound tours to Sri Lanka. |
 | [grandapartments.lk](https://grandapartments.lk) | Real estate website with dynamic listings and lead generation tools. |
