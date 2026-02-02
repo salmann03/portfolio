@@ -54,7 +54,7 @@ Linux/Server Management | UX/UI Design (Adobe, Figma, Canva)
 | [webluxeglobal.com](https://webluxeglobal.com) | Web solutions platform with integrated client dashboard (play.webluxeglobal.com). |
 | [t-bizz.com.au](https://t-bizz.com.au/) | Custom T-Shirt, Polo & Hoodies printing site based in Australia. |
 | [cartivatemotors.lk](https://cartivatemotors.lk) | Automobile e-commerce site with custom inventory management. |
-| [aaautomart.com](http://aaautomart.com/) | Automobile e-commerce site with custom inventory management. |
+| [aaautomart.com](https://aaautomart.com/) | Automobile e-commerce site with custom inventory management. |
 | [sivascarsales.com](https://sivascarsales.com/) | Automobile e-commerce site with custom inventory management. |
 | [sarathas.lk](https://sarathas.lk/) | Men's fashion e-commerce with custom product filters and checkout flow. |
 | [syokids.com](https://syokids.com) | Kids fashion e-commerce with custom product filters and checkout flow. |
