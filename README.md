@@ -15,19 +15,19 @@ Whether it’s custom WordPress builds, SEO-driven landing pages, or integrated 
 ## 💻 Skills
 
 **Programming Languages:**  
-JavaScript | Python | PHP | Shell Scripting (Bash) | SQL | HTML/CSS  
+JavaScript | Python | PHP | SQL | HTML/CSS  
 
 **Frameworks & Libraries:**  
-Node.js | Flask | Django | React Native | Express.js  
+Node.js | Express.js | React | React Native | Flask | Django
+
+**Databases & DevOps:**  
+PostgreSQL | MySQL | Docker | Linux/Server Management | Shell Scripting (Bash)
 
 **CMS & Builders:**  
-WordPress | Shopify | Framer | Wix | Softr | Squarespace 
+WordPress | Shopify | Framer | Wix | Softr | Squarespace
 
-**Digital Marketing:**  
-Performance Marketing | SEO | Google Analytics | Lead Generation  
-
-**Additional Skills:**  
-Linux/Server Management | UX/UI Design (Adobe, Figma, Canva)
+**Analytics & Growth:**  
+Performance Marketing/Lead Generation | SEO | Google Analytics
 
 ---
 
