@@ -50,6 +50,7 @@ Linux/Server Management | UX/UI Design (Adobe, Figma, Canva)
 | [thescalebridge.com](https://thescalebridge.com) | Partnership website for FINAP & Elastique (Netherlands). |
 | [cixor.lk](https://cixor.lk/) | Nanofinance solution/Personal Finance website for a fintech brand (FINAP). |
 | [finapcurix.com](https://finapcurix.com/) | Softtware services website for enterprises, startups, and government. |
+| [luckystar.lk](https://luckystar.lk/) | Import and logistics solutions from China to Sri Lanka |
 | [webluxeglobal.com](https://webluxeglobal.com) | Web solutions platform with integrated client dashboard (play.webluxeglobal.com). |
 | [t-bizz.com.au](https://t-bizz.com.au/) | Custom T-Shirt, Polo & Hoodies printing site based in Australia. |
 | [cartivatemotors.lk](https://cartivatemotors.lk) | Automobile e-commerce site with custom inventory management. |
@@ -63,7 +64,7 @@ Linux/Server Management | UX/UI Design (Adobe, Figma, Canva)
 | [grandapartments.lk](https://grandapartments.lk) | Real estate website with dynamic listings and lead generation tools. |
 
 🧩 *More projects in progress:*  
-`surfingtusker.com`,`luckystar.lk`, `finapclori.com`, `onedesk.one`, `nexussupplements.lk`, `teabagsociety.com`, `omniversetools.com`, `radi.lk`.
+`surfingtusker.com`,`finapclori.com`, `onedesk.one`, `nexussupplements.lk`, `teabagsociety.com`, `omniversetools.com`, `radi.lk`, `mycixor.com`.
 
 ---
 
