@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Salman
 
-I'm a results-driven **Web Developer and Digital Marketing Specialist** with hands-on experience across fintech, automobile, e-commerce, and fitness industries.  
-My focus is on crafting seamless digital experiences, optimizing performance, and aligning every project with business objectives to maximize ROI.
+I’m a full-stack developer with experience building, scaling, and maintaining production websites and applications across fintech, e-commerce, automobile, and fitness industries.
+I focus on performance, reliability, and practical solutions, making sure what I build works well in real-world use and supports clear business goals.
 
 ---
 
-## 🧠 About Me
+## 🧠 What I Do
 
-I bring together **technical expertise** and **marketing insight** — building and scaling websites that not only look great but perform exceptionally.  
-Whether it’s custom WordPress builds, SEO-driven landing pages, or integrated e-commerce platforms, I ensure every project delivers measurable results.
+I take responsibility for the full lifecycle of web projects, from initial build to deployment, optimization, and ongoing maintenance.
+I’ve delivered custom CMS-based systems and full web applications. My work goes beyond templates and visuals. I handle application logic, integrations, performance tuning, infrastructure, migrations, and analytics to ensure systems remain stable, measurable, and easy to operate.
 
 ---
 
@@ -28,15 +28,6 @@ WordPress | Shopify | Framer | Wix | Softr | Squarespace
 
 **Analytics & Growth:**  
 Performance Marketing/Lead Generation | SEO | Google Analytics
-
----
-
-## 🧰 Tools & Tech Stack
-- WordPress (custom themes, plugins, and WooCommerce)
-- PHP, JavaScript (ES6+), REST APIs
-- Google Cloud & cPanel hosting environments
-- Git, GitHub Actions, and CI/CD workflows
-- Performance optimization and analytics setup
 
 ---
 
@@ -65,13 +56,6 @@ Performance Marketing/Lead Generation | SEO | Google Analytics
 
 🧩 *More projects in progress:*  
 `surfingtusker.com`,`finapclori.com`, `onedesk.one`, `nexussupplements.lk`, `teabagsociety.com`, `omniversetools.com`, `radi.lk`, `mycixor.com`.
-
----
-
-## 🚀 What I’m Working On
-- Scalable WordPress solutions integrated with custom backends.
-- Marketing automation and analytics-driven performance optimization.
-- Continuous learning in headless WordPress and modern JS frameworks.
 
 ---
 
